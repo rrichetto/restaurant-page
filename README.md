@@ -1,0 +1,1 @@
+This repo is a restaurant page simply meant to practice using ES6 Modules. Project is from The Odin Project.

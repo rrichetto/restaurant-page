@@ -1,0 +1,25 @@
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.navigation {
+  list-style: none;
+}
+
+.nav-item {
+  display: inline-block;
+  background-color: rgb(140, 71, 71);
+}
+
+.nav-link {
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  padding: 1rem 2rem;
+}
+
+.nav-link:hover {
+  cursor: pointer;
+  background-color: rgb(103, 66, 66);
+}
